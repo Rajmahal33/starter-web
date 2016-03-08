@@ -16,7 +16,7 @@ Working modication
 
 ## Copyright
 
-2016 coyright
+2016 coyright...all rights reserved
 
 ## Merging
 Fork the repository and then issue Pull requests]
