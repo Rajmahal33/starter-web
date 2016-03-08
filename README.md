@@ -20,3 +20,6 @@ Working modication
 
 ## Merging
 Fork the repository and then issue Pull requests]
+
+## Rebasing
+Learning rebasing
