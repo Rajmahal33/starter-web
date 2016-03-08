@@ -17,3 +17,6 @@ Working modication
 ## Copyright
 
 2016 coyright
+
+## Merging
+Fork the repository and then issue Pull requests]
